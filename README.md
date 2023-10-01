@@ -1,11 +1,7 @@
 ### Hi there Im likhit tanishq 👋
 
-<!--
-**janareddyc7/janareddyc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  Mern project
+🔭 I’m currently working on  Mern project
 - 🌱 I’m currently learning  c sharp 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -41,4 +37,11 @@ https://user-images.githubusercontent.com/99184393/201828007-451fcae6-d954-4fba-
 
 https://camo.githubusercontent.com/9d49dab3871ca33334b92c4203b4e568cdc130e9aa54ca1532ccd1815f80112e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53617368656e4a6179617468696c616b61266c61796f75743d636f6d70616374
 
+
+<!--
+**janareddyc7/janareddyc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 
 -->
