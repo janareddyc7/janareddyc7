@@ -7,6 +7,8 @@ created innovate medical app based on refineed tumor masking system   https://pa
 
 Working on ai startup
 
+My new website is out 100 percent performance https://likhittanishq.vercel.app/
+
 <!--
 **janareddyc7/janareddyc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
