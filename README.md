@@ -5,7 +5,7 @@ Currently Focused on science and science fiar intel project biomedicalengineerin
 
 created innovate medical app based on refineed tumor masking system   https://partner.projectboard.world/oas/project/refined-tumor-masking-for-precision-optimized-glioblastoma-multiforme-resection-using-augmented-imag
 
-Working on ai startup - refactum
+Working on ai startup - Neural Ops Ai check it out https://github.com/NeuralOps-AI
 
 My new website is out 100 percent performance https://likhittanishq.org my first domain
 
