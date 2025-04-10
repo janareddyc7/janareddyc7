@@ -14,7 +14,7 @@ Developed an innovative medical app using **AI-powered tumor masking** and **aug
 ---
 
 ### 🧬 Neural Ops AI — AI for Biomedicine  
-Founder of **Neural Ops AI**, a startup focused on building cutting-edge neural systems for medical diagnostics and intelligence.
+Founder of **Neural Ops AI**, a startup that leverages autonomous, self-learning multi-agent systems to seamlessly automate complex, dynamic workflows.
 
 💻 [Visit Neural Ops AI on GitHub](https://github.com/NeuralOps-AI)
 
