@@ -1,18 +1,20 @@
-### Hi there Im likhit tanishq 👋
+👋 Hi there, I'm Likhit Tanishq!
+I'm a passionate innovator deeply immersed in science, biomedical engineering, quantum computing, and physics breakthroughs. Currently focused on pushing the boundaries through cutting-edge research and real-world applications.
 
+🚀 Current Projects:
 
-Currently Focused on science and science fiar intel project biomedicalengineering and quantam computing and physics breakthrough
+🎯 Intel Science & Engineering Fair Project
+Focused on biomedical engineering, physics, and quantum tech innovation.
 
-created innovate medical app based on refineed tumor masking system   https://partner.projectboard.world/oas/project/refined-tumor-masking-for-precision-optimized-glioblastoma-multiforme-resection-using-augmented-imag
+🧠 Refined Tumor Masking System for GBM Resection
+Developed an innovative medical app that enhances precision in glioblastoma multiforme (GBM) surgeries using augmented imaging and tumor masking AI.
+🔗 Check it out here
 
-Working on ai startup - Neural Ops Ai check it out https://github.com/NeuralOps-AI
+🧬 AI Startup - Neural Ops AI
+Building next-gen neural systems and biomedical AI solutions.
+💻 Explore on GitHub
 
-My new website is out 100 percent performance https://likhittanishq.org my first domain
+🌐 My Website
+Proud to launch my very first personal domain — optimized to 100% performance.
+🔗 Visit likhittanishq.org
 
-<!--
-**janareddyc7/janareddyc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
--->
