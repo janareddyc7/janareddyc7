@@ -1,20 +1,47 @@
-👋 Hi there, I'm Likhit Tanishq!
-I'm a passionate innovator deeply immersed in science, biomedical engineering, quantum computing, and physics breakthroughs. Currently focused on pushing the boundaries through cutting-edge research and real-world applications.
+# 👋 Hi there, I'm Likhit Tanishq!
 
-🚀 Current Projects:
+🎓 Passionate about **Biomedical Engineering**, **Quantum Computing**, **Physics**, and **AI for Healthcare**. Currently exploring the frontiers of science through innovation, research, and real-world impact.
 
-🎯 Intel Science & Engineering Fair Project
-Focused on biomedical engineering, physics, and quantum tech innovation.
+---
 
-🧠 Refined Tumor Masking System for GBM Resection
-Developed an innovative medical app that enhances precision in glioblastoma multiforme (GBM) surgeries using augmented imaging and tumor masking AI.
-🔗 Check it out here
+## 🚀 Projects & Initiatives
 
-🧬 AI Startup - Neural Ops AI
-Building next-gen neural systems and biomedical AI solutions.
-💻 Explore on GitHub
+### 🧠 Refined Tumor Masking System for GBM Resection  
+Developed an innovative medical app using **AI-powered tumor masking** and **augmented imaging** to assist in **precision glioblastoma multiforme (GBM) resection**.
 
-🌐 My Website
-Proud to launch my very first personal domain — optimized to 100% performance.
-🔗 Visit likhittanishq.org
+🔗 [Explore the Project on ProjectBoard](https://partner.projectboard.world/oas/project/refined-tumor-masking-for-precision-optimized-glioblastoma-multiforme-resection-using-augmented-imag)
+
+---
+
+### 🧬 Neural Ops AI — AI for Biomedicine  
+Founder of **Neural Ops AI**, a startup focused on building cutting-edge neural systems for medical diagnostics and intelligence.
+
+💻 [Visit Neural Ops AI on GitHub](https://github.com/NeuralOps-AI)
+
+---
+
+### 🌐 My Personal Website  
+Launched my very first domain — clean, fast, and 100% performance-optimized!
+
+🌍 [https://likhittanishq.org](https://likhittanishq.org)
+
+---
+
+## 🧪 Current Focus
+
+- Intel Science & Engineering Fair — Biomedical Engineering Project  
+- Innovations in Quantum Computing & Physics  
+- Real-world AI applications in Healthcare
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/likhit-tanishq-a3bbb7218/)*
+- ✉️ Email: *(avatanishq00@gmail.com)*
+- 🌐 Website: [likhittanishq.org](https://likhittanishq.org)
+
+---
+
+> “Innovate, Iterate, Impact.”
 
