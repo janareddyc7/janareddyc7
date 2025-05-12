@@ -5,13 +5,13 @@
 <h1 align="center">🚀 Likhit Tanishq</h1>  
 <p align="center">  
   <strong>AI Researcher & Full-Stack Developer</strong><br>  
-  Bridging technology and medicine to save lives, one mask at a time.  
+Leveraging the notion of AI augmenting human ability .  
 </p>
 
 ---
 
 ## 📝 About Me  
-I’m **Likhit Tanishq**, a lifelong coder, AI/ML enthusiast, and founder of Innovate. I design and build full-stack web solutions—then layer in deep learning to tackle real-world challenges in healthcare, automation, and beyond.
+I’m **Likhit Tanishq**, a lifelong coder, AI/ML enthusiast, and founder of Innovate , Neural Ops , Refactum , RTM . I design and build full-stack web solutions—then layer in deep learning to tackle real-world challenges in healthcare, automation, and beyond.
 
 ---
 
@@ -26,11 +26,11 @@ I’m **Likhit Tanishq**, a lifelong coder, AI/ML enthusiast, and founder of Inn
   - Achieved 85% IoU on validation, boosting surgical planning precision by 20%.
 
 - **Science Fair Honoree**  
-  - Earned Honorable Mention at the 2024 State Science Fair for medical imaging innovation.  
-  - Authored a 15-page paper on mask refinement and survival prediction using deep learning.
+  - Earned Gold at the 2024 State Science Fair for medical imaging innovation.  
+  - Authored a 30-page paper on mask refinement and survival prediction using deep learning.
 
 - **Chess Strategist & Mentor**  
-  - Chess.com 1800 · Lichess Rapid 1970 · Classical 2000+  
+  - Chess.com 200 · Lichess Rapid 2150 · Classical 2000+  
   - Coached 50+ players, raising their ratings by an average of 15%.
 
 - **Open-Source Leader**  
