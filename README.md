@@ -7,10 +7,3 @@
   <strong>AI Researcher & Full-Stack Developer</strong><br>  
 Leveraging the notion of AI augmenting human ability .  
 </p>
-
----
-
-## 📝 About Me  
-I’m **Likhit Tanishq**, a lifelong coder, AI/ML enthusiast, and founder of Innovate , Neural Ops , Refactum , RTM . I design and build full-stack web solutions—then layer in deep learning to tackle real-world challenges in healthcare, automation, and beyond.
-
----
